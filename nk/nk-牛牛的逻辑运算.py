@@ -1,0 +1,5 @@
+x,y = input().split()
+print(int(x) and int(y))
+print(int(x) or int(y))
+print(not int(x))
+print(not int(y))
